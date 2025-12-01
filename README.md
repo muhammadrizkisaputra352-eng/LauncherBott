@@ -52,8 +52,8 @@ Untuk memulai, pastikan Anda memiliki **Node.js v18.x** atau lebih tinggi.
 1.  **Clone repository ini:**
 
     ```bash
-    git clone https://github.com/AgusXzz/ChiiMD.git
-    cd ChiiMD
+    git clone https://github.com/muhammadrizkisaputra352-eng/LauncherBott
+    cd LauncherBott
     ```
 
 2.  **Install dependensi:**
